@@ -1,4 +1,4 @@
-👻 GhostRoute
+# 👻 GhostRoute
 Windows · Tor · Local Gateway · Privacy Tool
 
 ⚠️ IMPORTANT: GhostRoute is not a VPN and does not guarantee system-wide Tor routing or anonymity. Applications that bypass the Windows system proxy may connect directly to the Internet.
